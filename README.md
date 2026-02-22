@@ -39,15 +39,6 @@ An interactive A* pathfinding visualizer built with C++17 and SFML. Place obstac
 3. Ensure SFML include/lib paths are configured in project properties
 4. Build and run (F5)
 
-### CMake (Linux/macOS)
-
-```bash
-mkdir build && cd build
-cmake ..
-make
-./PathfindingVisualizer
-```
-
 > **Note:** SFML DLLs are not included in the repository. Download them from the [SFML website](https://www.sfml-dev.org/download.php) and place them alongside the executable, or install via your system package manager.
 
 ## Project Structure
