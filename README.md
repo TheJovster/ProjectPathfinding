@@ -32,7 +32,7 @@ An interactive A* pathfinding visualizer built with C++17 and SFML. Place obstac
 - [SFML 2.x](https://www.sfml-dev.org/download.php)
 - Visual Studio 2022+
 
-### Visual Studio
+### Steps
 
 1. Clone the repository
 2. Open `ProjectPathfinding.sln`
