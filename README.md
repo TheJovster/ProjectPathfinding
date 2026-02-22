@@ -30,7 +30,7 @@ An interactive A* pathfinding visualizer built with C++17 and SFML. Place obstac
 
 - C++17 compatible compiler
 - [SFML 2.x](https://www.sfml-dev.org/download.php)
-- Visual Studio 2022+ (Windows) or CMake (cross-platform)
+- Visual Studio 2022+
 
 ### Visual Studio
 
